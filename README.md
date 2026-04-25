@@ -36,9 +36,8 @@ Digite o nome do aluno: João
 Notas: 9, 8, 7, 8
 
 ## 📊 Saída:
-======================================================================
-                 Relatório de Notas dos Alunos
-======================================================================
+
+- Relatório de Notas dos Alunos
 
 Aluno: Ana
 Média: 7.00
