@@ -82,4 +82,4 @@ python calculo_notas.py
 ## 👩‍💻 Autor
 
 Desenvolvido por Laura ✨
-[text](https://www.linkedin.com/in/laura-santosh/)
+[Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/laura-santosh/)
