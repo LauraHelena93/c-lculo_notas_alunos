@@ -1,6 +1,8 @@
 📊 Sistema de Cálculo de Notas de Alunos
 
-https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white https://img.shields.io/badge/Console-App-lightgrey?style=flat&logo=windows-terminal&logoColor=white https://img.shields.io/badge/List-Data-orange?style=flat&logo=python&logoColor=white https://img.shields.io/badge/Dict-Data-orange?style=flat&logo=python&logoColor=white https://img.shields.io/badge/Functions-Logic-yellow?style=flat&logo=python&logoColor=white https://img.shields.io/badge/Loops-For-green?style=flat&logo=python&logoColor=white https://img.shields.io/badge/If%2FElse-Conditionals-red?style=flat&logo=python&logoColor=white
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python&logoColor=white) 
+![Terminal](https://img.shields.io/badge/Console-App-lightgrey?style=flat&logo=windows-terminal&logoColor=white) 
+![Data](https://img.shields.io/badge/List-Data-orange?style=flat&logo=python&logoColor=white)
 
 📌 Descrição
 
