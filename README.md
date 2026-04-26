@@ -57,13 +57,6 @@ Situação: APROVADO
 - Lógica condicional (if/elif/else)
 
 
-## 🚀 Como executar
-
-Instale o Python
-Clone o repositório:
-git clone [text](https://github.com/LauraHelena93)
-Execute o arquivo:
-python calculo_notas.py
 
 ## 🎥 Demonstração
 
